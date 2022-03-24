@@ -1,6 +1,14 @@
 # Ayush-Navadiya-React_Native_Working_With_InputElements
-React native input field example with ui-kitten elements and field validation 
+React native input field example with ui-kitten elements and field validation
+React native form validation
 
+
+---
+### Used npm Packages
+1. [@ui-kitten/components](https://www.npmjs.com/package/@ui-kitten/components)
+2. [@eva-design/eva react-native-svg](https://www.npmjs.com/package/@eva-design/eva)
+3. [react-native-safe-area-context](https://www.npmjs.com/package/react-native-safe-area-context)
+4. [react-native-form-validator](https://www.npmjs.com/package/react-native-form-validator)
 
 ---
 ### Prerequisite
