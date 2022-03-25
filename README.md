@@ -39,8 +39,7 @@ React native form validation
 
 ---
 ## Output
-
-![Output](https://github.com/Ayush-Navadiya/Ayush-Navadiya-React_Native_Working_With_InputElements/blob/master/Output/Form.jpg)
-![Output](https://github.com/Ayush-Navadiya/Ayush-Navadiya-React_Native_Working_With_InputElements/blob/master/Output/Filled_form.jpg)
-![Output](https://github.com/Ayush-Navadiya/Ayush-Navadiya-React_Native_Working_With_InputElements/blob/master/Output/Valoidator.jpg)
-![Output](https://github.com/Ayush-Navadiya/Ayush-Navadiya-React_Native_Working_With_InputElements/blob/master/Output/FormSubmitOnValidate.jpg)
+<img src="https://github.com/Ayush-Navadiya/Ayush-Navadiya-React_Native_Working_With_InputElements/blob/master/Output/Form.jpg" width=250>
+<img src="https://github.com/Ayush-Navadiya/Ayush-Navadiya-React_Native_Working_With_InputElements/blob/master/Output/Filled_form.jpg" width=250>
+<img src="https://github.com/Ayush-Navadiya/Ayush-Navadiya-React_Native_Working_With_InputElements/blob/master/Output/Valoidator.jpg" width=250>
+<img src="https://github.com/Ayush-Navadiya/Ayush-Navadiya-React_Native_Working_With_InputElements/blob/master/Output/FormSubmitOnValidate.jpg" width=250>
